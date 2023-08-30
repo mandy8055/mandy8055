@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mandy8055.mandy8055)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mandy8055.mandy8055&format=true)
 
 I am Manuj Sankrit :cowboy_hat_face:,
 I work under the acronym “mandy8055” across the virtual world. A student with insatiable desire to learn, jack of all trades but master of none, true patriot, motivator in the morning, fitness freak in the evening and programmer-cum-developer in night. I enjoy working on new technology and challenging problem statements. I love helping people solve their problem on github and stackoverflow. You can visit my **[portfolio website](https://mandy8055.github.io/)** which I created myself using `github` and `jekyll`.
