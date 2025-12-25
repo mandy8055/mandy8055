@@ -20,7 +20,7 @@ I'm that person who gets excited about clean code, elegant algorithms, and perfe
 ```javascript
 const mandy8055 = {
   code: ["JavaScript", "TypeScript", "Java", "Python"],
-  askMeAbout: ["web dev", "React", "Next.js", "data structures", "open source"],
+  askMeAbout: ["web dev", "fitness", "diet", "React", "Next.js", "data structures", "open source"],
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
     backend: ["Node.js", "Express", "GraphQL"],
