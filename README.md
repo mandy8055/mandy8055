@@ -1,41 +1,110 @@
-### Hi there 👋
+# Hey there! 👋
+
+I'm **Manuj Sankrit** (aka **mandy8055** 🤠), your friendly neighborhood code enthusiast who believes every bug is just a feature waiting to be discovered! 
+
+**Arctic Code Vault Contributor** • **Stack Overflow Junkie** • **Open Source Evangelist** • **Professional Debugger of Life** 
+
+---
+
+## 🎯 What I'm About
+
+> *"Code is like humor. When you have to explain it, it's bad."* - Cody (probably)
+
+I'm that person who gets excited about clean code, elegant algorithms, and perfectly aligned divs. I spend my days building things with JavaScript/TypeScript and my nights pretending I understand monads (still working on it).
+
+**Current Status:** Making the web a prettier place, one commit at a time ⚡
+
+---
+
+## 🛠️ My Arsenal
+```javascript
+const mandy8055 = {
+  code: ["JavaScript", "TypeScript", "Java", "Python"],
+  askMeAbout: ["web dev", "React", "Next.js", "data structures", "open source"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "Redux"],
+    backend: ["Node.js", "Express", "GraphQL"],
+    cloud: ["AWS", "Azure", "Docker"],
+    tools: ["Git", "GitHub Actions", "Webpack", "Vite"]
+  },
+  currentlyLearning: "How to write READMEs that people actually read",
+  funFact: "I debug with console.log and I'm not ashamed"
+};
+```
+
+---
+
+## 🏆 Bragging Rights (Because Why Not?)
+
+- 🌌 **Arctic Code Vault Contributor** - My code is literally frozen in time in the Arctic
+- 🎓 **2x GATE Qualifier** - Because one time wasn't enough
+- 💬 **6.8k+ Stack Overflow Rep** - Professional answer-giver
+- 🏊 **State Championship Medalist** - Debugging pool lanes before debugging code
+- 📚 **Published npm Author** - Check out my [data structures library](https://www.npmjs.com/package/@mandy8055/data-structures)
+
+---
+
+## 🎭 Plot Twist: I'm Not Just Code
+
+**Day Job:** Architecting scalable web applications  
+**Night Shift:** Conquering LeetCode problems like they owe me money  
+**Weekends:** A mix of running, guitar riffs, and pretending my side projects will be done "soon"
+
+**Fun Facts:**
+- 🏃‍♂️ Run like I'm being chased by production bugs
+- 🎸 Play guitar (badly, but enthusiastically)
+- 🏊 Swim competitively (state medalist, no big deal 😎)
+- 📖 Read self-help books while procrastinating on actual help
+
+---
+
+## 💼 What I'm Cooking
+
+🔭 Building cool stuff with React & Next.js  
+🌱 Deep diving into AI/ML (because why not add more to the plate?)  
+👯 Always down to collaborate on open-source projects  
+💡 Got an idea? Let's build something awesome together!
+
+---
+
+## 📊 GitHub Stats (For the Nerds)
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mandy8055.mandy8055&format=true)
 
-I am Manuj Sankrit :cowboy_hat_face:,
-I work under the acronym “mandy8055” across the virtual world. A student with insatiable desire to learn, jack of all trades but master of none, true patriot, motivator in the morning, fitness freak in the evening and programmer-cum-developer in night. I enjoy working on new technology and challenging problem statements. I love helping people solve their problem on github and stackoverflow. You can visit my **[portfolio website](https://mandy8055.github.io/)** which I created myself using `github` and `jekyll`.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy8055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-### Languages:
+---
 
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+## 🤝 Let's Connect!
 
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I'm always up for interesting conversations, collaboration opportunities, or just geeking out about tech!
 
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuj-sankrit-b82175117/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19090048)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mandy8055)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mandy8055.github.io/)
 
-![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
 
-### Libraries & Frameworks:
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)![image](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)
+## 💬 Random Dev Wisdom
+```javascript
+while(alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+  // TODO: Add social life
+}
+```
 
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+<div align="center">
+  
+**"Debugging is like being a detective in a crime movie where you're also the murderer."** 🕵️‍♂️
 
-![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+*Thanks for stopping by! Now go write some bugs... I mean code!* 😄
 
-![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+⭐ **If you like what you see, drop a star on my repos!**
 
-![image](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Tools & Softwares:
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)![image](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-
-![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=mandy8055&show_icons=true&theme=gruvbox)
+</div>
