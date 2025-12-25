@@ -82,7 +82,7 @@ I'm always up for interesting conversations, collaboration opportunities, or jus
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuj-sankrit-b82175117/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19090048)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mandy8055)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mandy8055.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://manuj-sankrit-8055.vercel.app/)
 
 ---
 
