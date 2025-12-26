@@ -2,7 +2,7 @@
 
 I'm **Manuj Sankrit** (aka **mandy8055** 🤠), your friendly neighborhood code enthusiast who believes every bug is just a feature waiting to be discovered! 
 
-**Arctic Code Vault Contributor** • **Stack Overflow Junkie** • **Open Source Evangelist** • **Professional Debugger of Life** 
+**Arctic Code Vault Contributor** • **Stack Overflow Beacon** • **Open Source Evangelist** • **Professional Debugger of Life** 
 
 ---
 
