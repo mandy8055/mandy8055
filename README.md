@@ -71,7 +71,6 @@ const mandy8055 = {
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mandy8055.mandy8055&format=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy8055&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
 ---
 
