@@ -8,7 +8,7 @@ I'm **Manuj Sankrit** (aka **mandy8055** 🤠), your friendly neighborhood code 
 
 ## 🎯 What I'm About
 
-> *"Code is like humor. When you have to explain it, it's bad."* - Cody (probably)
+> *"Code is like humor. When you have to explain it, it's bad."* - Cody
 
 I'm that person who gets excited about clean code, elegant algorithms, and perfectly aligned divs. I spend my days building things with JavaScript/TypeScript and my nights pretending I understand monads (still working on it).
 
