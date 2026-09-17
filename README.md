@@ -40,7 +40,7 @@ const mandy8055 = {
 - 🎓 **2x GATE Qualifier** - Because one time wasn't enough
 - 💬 **6.8k+ Stack Overflow Rep** - Professional answer-giver
 - 🏊 **State Championship Medalist** - Debugging pool lanes before debugging code
-- 📚 **Published npm Author** - Check out my [data structures library](https://www.npmjs.com/package/@mandy8055/data-structures)
+- 📚 **Published npm Author** - Check out my [data structures library](https://www.npmjs.com/package/@dstoolkit/data-structures)
 
 ---
 
