@@ -58,6 +58,17 @@ const mandy8055 = {
 
 ---
 
+## 🕵️ Where is all my engineering energy going?
+If you're looking at my contribution graph here and wondering if I've retired... I haven't!
+Most of my heavy lifting, system architecture, and production code happens over on my enterprise account.
+
+👉 **Check out my full professional profile here: [@manujSk](https://github.com/manujSk)** 🚀
+
+* 📊 **Current Milestone:** Crossed **1000+ contributions** this year alone!
+* 🔮 **The Plan:** These two history graphs will undergo a grand corporate merger once my current enterprise cycle concludes.
+
+---
+
 ## 💼 What I'm Cooking
 
 🔭 Building cool stuff with React & Next.js  
